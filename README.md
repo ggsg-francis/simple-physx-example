@@ -5,4 +5,4 @@ This project creates a polygonal dish and a rigidbody sphere and runs the simula
 A detailed explanation here (a lot of this is ripped from the official physx docs):
 http://www.b-type.net/px/
 
-[This project creates a polygonal dish and a rigidbody sphere and runs the simulation for 512 ticks.](physxexample.png)
+<img src="physxexample.png"/>
